@@ -1,16 +1,16 @@
 👋🏽 Hi, my name is Noumana Haq.
 
-🎓 Soon to be grad with a Bachelor's of Engineering in Computer Systems Engineering from Brunel University London (June 2023).
+🎓 Soon to be grad with a Bachelor's of Engineering in Computer Systems Engineering with Honours from Brunel University London (June 2023).
 
-🌇 Passion for taking initiative in work and group collaborations.
+🌇 Passion for taking initiative in personal development and software engineering.
 
-📚 I have done work experience at UCL where I built bio-inspired robots i.e. I built caterpillar form robot, visited companies like IBM and Google Deep Mind which enhanced my logical thinking and problem-solving skills as well as boosted my creativity skills. Furthermore, I have worked with Ahmadiyya Muslim Community (AMC) by volunteering under the subtitling department because it combines various skills such as teamwork, organisation, communication as well as critical thinking and motivation.
+📚 In addition to doing a placement year, volunteering and attending summer schools, I secured a summer internship at Infosys where I worked as a machine learning researcher and the role it plays in Metaverse.
 
-💻 As for my future, I hope to complete a Masters degree in Applied Mathematics and one day work as an Artificial Intelligence Engineer and work with a diverse team.
+💻 As for my future, I hope to pursue a Masters degree in Software Engineering and work as a Software Engineer with expertise underlying in Python.
 
-🏔 My hobbies include reading as well as with the current on-going pandemic, I have also chosen to take online classes and do watercolour paintings as form to express my feelings. 
+🏔 My hobbies include playing archery, reading as well as with the current on-going pandemic, I have also chosen to take online classes and do watercolour paintings.
 
-💪🏽 My strengths and skills include working with HTML5, CSS3, WordPress Blogging, Python, Java, C++, MATLAB as well as Operating Systems and Urdu.
+💪🏽 My core skill is focused on Python.
 
 <!---
 noumanahaq/noumanahaq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
