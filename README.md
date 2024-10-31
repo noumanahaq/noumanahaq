@@ -1,16 +1,12 @@
 👋🏽 Hi, my name is Noumana Haq.
 
-🎓 Soon to be grad with a Bachelor's of Engineering in Computer Systems Engineering with Honours from Brunel University London (June 2023).
+🎓 Bachelor of Engineering, Computer Systems Engineering with Professional Development with Honours.
 
-🌇 Passion for taking initiative in personal development and software engineering.
+🌇 Passion for taking initiative in Data & Personal Development.
 
-📚 In addition to doing a placement year, volunteering and attending summer schools, I secured a summer internship at Infosys where I worked as a machine learning researcher and the role it plays in Metaverse.
+💻 As for my future, I hope to work as a Machine Learning Engineer.
 
-💻 As for my future, I hope to pursue a Masters degree in Software Engineering and work as a Software Engineer with expertise underlying in Python.
-
-🏔 My hobbies include playing archery, reading as well as with the current on-going pandemic, I have also chosen to take online classes and do watercolour paintings.
-
-💪🏽 My core skill is focused on Python.
+🏔 My hobbies include trying out various activities such as playing archery, reading, content creation, hiking etc!
 
 <!---
 noumanahaq/noumanahaq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
